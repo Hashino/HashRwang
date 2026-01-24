@@ -2,6 +2,20 @@
 
 samba eletronico
 
+tecnologia
+passado
+futuro
+sabedoria
+idade
+sexo
+genero
+coisa
+nada
+silencio
+ritmo
+poesia
+estudo
+
 # letra
 
 ```
@@ -14,6 +28,9 @@ licença pra eu entrar...
 
 [falado velho]
 como é que a gente começa se o código nem compila kkkkk
+
+rola samba em ingles kkkkkkkkkkkkk
+e gerado por AI? KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKk
 
 ideia é o que eu quero
 linguagem é o que eu construo

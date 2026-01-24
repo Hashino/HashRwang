@@ -4,6 +4,8 @@ funk-rap alto bpm que critica papeis de genero com referencias a metal, piano e 
 começa parecendo lixo gerado por clanker, mas gradualmente migra pra uma sonzera
 braba B)
 
+feito só com AI
+
 # inspirações
 
 https://suno.com/s/AYAYFLD1ENNwkoeQ

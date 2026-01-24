@@ -2,6 +2,18 @@
 
 EP de rap filisofico experimental.
 
+# tarefas
+
+## reunião
+
+> [!TODO]
+> marcar reunião com o ciriclo
+
+## tópico
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+divulgação
+
 # sonografia
 samples:
 

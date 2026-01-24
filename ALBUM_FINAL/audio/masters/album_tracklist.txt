@@ -1,0 +1,7 @@
+# MANICELA - Album Completo
+
+file '01_intro_fala_master.mp3'
+file '02_adeus_de_ninar_master_normalized.mp3'  
+file '04_linguada_em_c_enhanced.mp3'
+file '05_linguada_em_c_alt_master.mp3'
+file 'bonus_pausa_master.mp3'
